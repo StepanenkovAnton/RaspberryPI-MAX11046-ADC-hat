@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "smu")(type "Legacy")(uri "${KIPRJMOD}/libs/smu.lib")(options "")(descr ""))
+  (lib (name "MAX11046")(type "Legacy")(uri "${KIPRJMOD}/libs/MAX11046ETN+.lib")(options "")(descr ""))
+  (lib (name "9PIN_header")(type "Legacy")(uri "${KIPRJMOD}/libs/68001-109HLF.lib")(options "")(descr ""))
+  (lib (name "16pin_header")(type "Legacy")(uri "${KIPRJMOD}/libs/5-146253-8.lib")(options "")(descr ""))
+  (lib (name "DS3231M")(type "Legacy")(uri "${KIPRJMOD}/libs/DS3231M+TRL.lib")(options "")(descr ""))
+  (lib (name "Bat_2032_holder")(type "Legacy")(uri "${KIPRJMOD}/libs/SMTU2032-LF.lib")(options "")(descr ""))
+  (lib (name "F981A336MMALZT")(type "Legacy")(uri "${KIPRJMOD}/libs/F981A336MMALZT.lib")(options "")(descr ""))
+  (lib (name "NFE61PT472C1H9L")(type "KiCad")(uri "${KIPRJMOD}/libs/NFE61PT472C1H9L.kicad_sym")(options "")(descr ""))
+  (lib (name "1N4148WT")(type "KiCad")(uri "${KIPRJMOD}/libs/1N4148WT.kicad_sym")(options "")(descr ""))
+  (lib (name "SQ1922EEH-T1_GE3")(type "Legacy")(uri "${KIPRJMOD}/libs/SQ1922EEH-T1_GE3.lib")(options "")(descr ""))
+)
