@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS8588s
+D 8-channel, integrated data acquisition (DAQ) system based on a simultaneous-sampling, 16-bit successive approximation (SAR) analog-to-digital converter (ADC) operating at a maximum of 200 kSPS per channel
+F https://www.ti.com/lit/ds/symlink/ads8588s.pdf
+$ENDCMP
+#
+$CMP CPC2317N
+D 1 Form A (SPST-NO), 1 Form B (SPST-NC) OptoMOS® Relay, SOIC-8
+K MOSFET Output Photorelay 1 Form A (SPST-NO), 1 Form B (SPST-NC)
+F https://www.ixysic.com/home/pdfs.nsf/www/CPC2317N.pdf/$file/CPC2317N.pdf
+$ENDCMP
+#
+$CMP LED_Dual_CCAA
+D Dual LED, cathodes on pins 1 and 1
+K LED diode bicolor dual
+F ~
+$ENDCMP
+#
+$CMP NX3DV42GU
+D Dual high-speed USB 2.0 double-pole double-throw analog switch
+K USB 2.0 High Speed Switch
+F https://www.nxp.com/docs/en/data-sheet/NX3DV42.pdf
+$ENDCMP
+#
+$CMP Q_DNMOS_GSD
+D Dual N-MOSFET transistor, gate/source/drain
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP REF34xxT
+D Low-Drift, Low-Power, Voltage Reference, SOT-23
+K Voltage Reference
+F https://www.ti.com/lit/ds/symlink/ref3440.pdf
+$ENDCMP
+#
+$CMP SKG09BL
+D Ultra High Sensitivity and Low Power GPS Receiver Module
+K SkyLab GPS GNSS module
+F http://www.skylab.com.cn/uploadfile/Download/SkyLab_SKG09BL_V3.04_Datasheet.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G123
+D Single Retrigerrable Monostabile Multivibrator, Low-Voltage CMOS
+K Single Mono Multivibrator CMOS
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf
+$ENDCMP
+#
+#End Doc Library

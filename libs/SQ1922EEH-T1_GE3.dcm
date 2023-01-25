@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQ1922EEH-T1_GE3
+D MOSFET 20V Vds Dual N-Ch AEC-Q101 Qualified
+K
+F https://www.vishay.com/docs/75204/sq1922eeh.pdf
+$ENDCMP
+#
+#End Doc Library

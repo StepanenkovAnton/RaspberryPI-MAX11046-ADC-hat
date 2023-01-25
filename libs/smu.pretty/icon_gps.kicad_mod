@@ -1,0 +1,13 @@
+(module icon_gps (layer F.Cu) (tedit 6190FBCA)
+  (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_line (start 0.1 -0.05) (end -0.1 0.15) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0.35 0.6) (end -0.55 -0.3) (layer F.SilkS) (width 0.12))
+  (fp_arc (start 0.06 -0.01) (end -0.55 -0.3) (angle -141) (layer F.SilkS) (width 0.12))
+  (fp_arc (start 0.097185 -0.05) (end 0.380027 -0.05) (angle -90) (layer F.SilkS) (width 0.12))
+  (fp_arc (start 0.097185 -0.05) (end 0.662871 -0.05) (angle -90) (layer F.SilkS) (width 0.12))
+)

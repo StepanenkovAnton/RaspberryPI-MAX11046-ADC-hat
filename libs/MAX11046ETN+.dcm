@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX11046ETN+
+D MAX11046ETN+, 16 bit ADC 8-channel, Parallel, 56-Pin TQFN
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA17/1032187.pdf
+$ENDCMP
+#
+#End Doc Library

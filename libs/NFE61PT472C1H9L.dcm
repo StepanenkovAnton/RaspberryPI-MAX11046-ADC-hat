@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFE61PT472C1H9L
+D SMT EMI filter capacitor,4700pF 50Vdc Murata NFE61HT / PT Series 2A 50 V dc SMD Power Line Filter, with Solder Pad Terminals
+K
+F https://www.murata.com/en-us/products/productdetail?partno=NFE61PT472C1H9%23
+$ENDCMP
+#
+#End Doc Library

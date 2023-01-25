@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5-146253-8
+D 16 MODII HDR DRST B/A .100CL LF
+K
+F https://www.mouser.fr/datasheet/2/418/6/ENG_CD_146253_J3-2007644.pdf
+$ENDCMP
+#
+#End Doc Library

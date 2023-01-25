@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 68001-109HLF
+#/364282/854607/2.49/9/2/Connector
+DEF 68001-109HLF J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "68001-109HLF" 650 200 50 H V L CNN
+F2 "HDRV9W90P0X254_1X9_2286X241X1143P" 650 100 50 H I L CNN
+F3 "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68000.pdf" 650 0 50 H I L CNN
+F4 "BergStik, Board to Board connector, Unshrouded vertical header, Through Hole, Single Row, , 9  Positions, 2.54 mm (0.100in) Pitch." 650 -100 50 H I L CNN "Description"
+F5 "11.43" 650 -200 50 H I L CNN "Height"
+F6 "649-68001-109HLF" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/68001-109HLF?qs=p7Li5uGGkAqGed8d9fiXyg%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Amphenol Communication Solutions" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "68001-109HLF" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
